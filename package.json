@@ -1,0 +1,25 @@
+{
+  "name": "1636",
+  "version": "1.0.0",
+  "description": "Base16 to/from Base36 conversion",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://yieme@github.com/yieme/1636.git"
+  },
+  "keywords": [
+    "base16",
+    "base36",
+    "base",
+    "conversion"
+  ],
+  "author": "yieme",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yieme/1636/issues"
+  },
+  "homepage": "https://github.com/yieme/1636#readme"
+}
